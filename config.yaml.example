@@ -1,0 +1,8 @@
+APIKEY: fSBzApdasdgpFDqkIDmj2gx9PoUCAA5asdasdAa6EOvIgS06
+DOMAIN: domain.retailcrm.ru
+DB:
+  HOST: "localhost:6603"
+  NAME: customDB
+  LOGIN: root
+  PASS: demoBD
+  TABLE: constantin_kanivec
