@@ -10,4 +10,4 @@ CREATE TABLE IF NOT EXISTS constantin_kanivec
     prepay_sum           DOUBLE                 null COMMENT 'Оплаченная сумма'
 
 )
-COMMENT 'Не забыть заменить на ссылку на репозиторий';
+COMMENT 'https://github.com/Constantine-Ka/ooo_goods';
