@@ -11,7 +11,3 @@ CREATE TABLE IF NOT EXISTS constantin_kanivec
 
 )
 COMMENT 'Не забыть заменить на ссылку на репозиторий';
-
-
-# ALTER TABLE constantin_kanivec ADD INDEX (customer_id);
-# ALTER TABLE constantin_kanivec ADD UNIQUE INDEX (order_id);
